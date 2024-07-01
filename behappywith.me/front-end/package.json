@@ -1,0 +1,16 @@
+{
+  "name": "behappywith.me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "daniel antonio<danielantonio.dad52@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
